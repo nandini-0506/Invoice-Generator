@@ -1,0 +1,9 @@
+Objective:
+
+Your goal is to build a Node.js-based system that generates an invoice in PDF format. This invoice will be styled and include dynamic data. The approach involves creating a styled HTML template using EJS (Embedded JavaScript templating), injecting dynamic values into it, and finally converting it into a PDF using Puppeteer.
+
+Technologies to use:
+• Backend: Node.js
+• Templating Engine: EJS
+• PDF Generator: Puppeteer
+• Styling: HTML + CSS
